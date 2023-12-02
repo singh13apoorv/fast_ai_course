@@ -1,0 +1,5 @@
+##Adding all images in bird_or_not to git ignore file
+Lesson1/bird_or_not/
+
+##Adding all .jpg files to git ignore
+*.jpg
