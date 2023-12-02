@@ -3,3 +3,6 @@ Lesson1/bird_or_not/
 
 ##Adding all .jpg files to git ignore
 *.jpg
+
+##Adding all hidden files to gitignore
+.*
